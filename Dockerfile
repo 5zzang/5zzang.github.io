@@ -7,5 +7,5 @@ WORKDIR /app
 COPY Gemfile Gemfile.lock ./
 RUN bundle install
 
-EXPOSE 4000 80
-CMD jekyll serve -d /_site --watch --force_polling -H 0.0.0.0 -P 4000
+EXPOSE 4000
+CMD jekyll serve --config _config.yml,_config_dev.yml -d /_site --force_polling -H 0.0.0.0 -P 4000
