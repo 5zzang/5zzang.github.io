@@ -273,20 +273,20 @@ body.video cite { color: #fff; }
 
 #footer {
     padding-top: 30px;
-    padding-bottom: 20px;
+    // padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
-    }
+}
 
-    #footer a {
-        color: $footer-link-color;
-    }
-    #footer h4,
-    #footer h5 {
-        letter-spacing: 1px;
-        color: #fff;
-        text-transform: uppercase;
-    }
+#footer a {
+    color: $footer-link-color;
+}
+#footer h4,
+#footer h5 {
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase;
+}
 
 
 
@@ -299,14 +299,28 @@ body.video cite { color: #fff; }
     padding-top: 30px;
 }
 
+#subfooter-center {
+    display: table;
+    margin: 0 auto;
+}
+
 #subfooter-left ul.inline-list {
     float: left;
+}
+
+#subfooter-right ul.inline-list {
+    float: right;
+}
+
+#subfooter-center ul.inline-list {
+    display: table;
+    margin: 0 auto;
 }
 
 .credits a {
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     &:hover {
         color: #fff;
   }
