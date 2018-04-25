@@ -4,7 +4,7 @@ subheadline: ""
 title: "Simple traveler."
 teaser: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-bus.jpg"
 permalink: "/travel/"
 ---
 <ul>
