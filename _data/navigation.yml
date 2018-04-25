@@ -1,63 +1,40 @@
-- title: Start
+- title: "🏠"
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: "About me"
+  url: "/about-me/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Tech"
+  url: "/tech/"
   side: left
   dropdown:
   - title: "Grid & Colors"
-    url: "/design/grid/"
+    url: "/tech/grid/"
   - title: "Typography"
-    url: "/design/typography/typography/"
+    url: "/tech/typography/typography/"
   - title: "Page/Post"
-    url: "/design/page/"
+    url: "/tech/page/"
   - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
+    url: "/tech/post-left-sidebar/"
   - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
+    url: "/tech/post-right-sidebar/"
   - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
+    url: "/tech/page-fullwidth/"
   - title: "Video"
-    url: "/design/video/"
+    url: "/tech/video/"
   - title: "Gallery"
-    url: "/design/gallery/"
+    url: "/tech/gallery/"
   - title: "Portfolio"
-    url: "/design/portfolio/"
+    url: "/tech/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Travel"
+  url: "/travel/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Thailand - Bangkok"
+    url: "/travel/header-full-width-image/"
 
 - title: Blog
   url: "/blog/"
@@ -66,10 +43,6 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "🔍"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
