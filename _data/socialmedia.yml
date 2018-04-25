@@ -1,17 +1,27 @@
 - name: GitHub
-  url: http://github.com/5zzang
+  url: https://github.com/5zzang
   class: icon-github
-  title: ""
+  title: "GitHub"
+
+- name: Linkedin
+  url: https://www.linkedin.com/in/5zzang/
+  class: icon-linkedin
+  title: "Linkedin"
 
 - name: Twitter
-  url: http://twitter.com/5zzang
+  url: https://twitter.com/5zzang
   class: icon-twitter
-  title: ""
+  title: "Twitter"
 
 - name: Facebook
-  url: http://www.facebook.com/5zzang
+  url: https://www.facebook.com/5zzang
   class: icon-facebook
-  title: ""
+  title: "Facebook"
+
+- name: Contact
+  url: /contact/
+  class: icon-mail
+  title: "Contact"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
