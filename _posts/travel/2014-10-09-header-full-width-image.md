@@ -4,7 +4,7 @@ title:  "Header with a Full-Width-Image"
 subheadline:  "Headers With Style"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
 categories:
-    - design
+    - travel
 tags:
     - design
     - background color
@@ -30,7 +30,7 @@ header:
 
 
 
-### All Header-Styles 
+### All Header-Styles
 {: .t60 }
 
 {% include list-posts tag='header' %}

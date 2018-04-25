@@ -1,12 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
+title: "About me"
+subheadline: "Do you want to know about, Michael Kim?"
 teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+permalink: "/about-me/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
