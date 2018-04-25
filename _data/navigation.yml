@@ -1,4 +1,5 @@
-- title: "🏠"
+- title: ""
+  class: icon-home
   url: "/"
   side: left
 
@@ -40,9 +41,10 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archive"
     url: "/blog/archive/"
 
-- title: "🔍"
+- title: ""
+  class: icon-eye
   url: "/search/"
   side: right

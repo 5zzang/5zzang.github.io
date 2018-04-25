@@ -23,6 +23,11 @@
   class: icon-mail
   title: "Contact"
 
+- name: RSS
+  url: /feed.xml
+  class: icon-rss
+  title: "RSS"
+
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
 #   class: icon-cloud

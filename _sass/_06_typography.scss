@@ -371,7 +371,9 @@ mark {
 .iconfont-48    { font-size: 48px; }
 
 
-[data-icon]:before { content: attr(data-icon); }
+[data-icon]:before {
+  content: attr(data-icon);
+}
 
 [data-icon]:before,
 .icon-archive:before,
@@ -430,17 +432,19 @@ mark {
 .icon-xing:before,
 .icon-youtube:before {
   display: inline-block;
-font-family: "iconfont";
-font-style: normal;
-font-weight: normal;
-font-variant: normal;
-line-height: 1;
-text-decoration: inherit;
-text-rendering: optimizeLegibility;
-text-transform: none;
--moz-osx-font-smoothing: grayscale;
--webkit-font-smoothing: antialiased;
-font-smoothing: antialiased;
+  font-family: "iconfont";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  position: relative;
+  left: 4px;
 }
 
 .icon-archive:before { content: "\f100"; }
