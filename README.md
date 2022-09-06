@@ -1,19 +1,23 @@
-5zzang.github.io
-===
+# PanelCV
 
-> Warn : This code based on **[Jekyll Theme - Feeling Responsive](https://github.com/Phlow/feeling-responsive)**. 
-> 
-> Requirements : **[Docker](https://www.docker.com/community-edition#/download)**
+This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
 
-### Install & Run
+I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
 
-1. Clone this repository to your local
-2. Build dockerfile
-3. Run docker container
+The theme would look like this 
 
-```console
-$ git clone git@github.com:5zzang/5zzang.github.io.git
-$ cd 5zzang.github.io
-$ ./build.sh
-$ ./run.sh
-```
+![Demo](/images/demo.png)
+
+
+# Installation
+
+- Fork the repository
+- Go to settings and set Github Pages source as master.
+- Your new site should be ready at https://username.github.io/PanelCV/
+
+Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
+
+
+# Author
+
+- [Locky](https://github.com/junlulocky)

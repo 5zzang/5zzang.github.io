@@ -1,48 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Jekyll Powered Start Bootstrap Template
-email: vidhyav656@gmail.com
-description: Stylish Portfolio is a responsive, one page portfolio theme for Bootstrap created by Start Bootstrap. The theme features multiple content sections with an off canvas navigation menu.
+title: 5zzang
+url: 'https://www.5zzang.com'
+baseurl: '/' #change it according to your repository name
 
-keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, bootstrap-4, bootstrap-theme, bootstrap-template, portfolio-website, portfolio-theme, open-source, free, google-anaytics, github-pages
 
-baseurl: "/startbootstrap-stylish-portfolio-jekyll" # the subpath of your site, e.g. /blog
-url: "https://vidhyav656.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  vidhyav656
-facebook_username:  "#"
-twitter_username:  vidhyav656
-google_analytics_tracking_id: UA-129738661-1
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-incremental: true
+# Profile information
+yourname: Taewoo(Michael) Kim  ## put your name
+title: 'DevOps Architect'  ## your title
+location: South Korea
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-#exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
-include: ['.htaccess']
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: #  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
